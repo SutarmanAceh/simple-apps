@@ -21,7 +21,7 @@ app.get('/app2', (req, res) => {
 });
 
 app.get('/str', (req, res) => {
-  res.send('Belajar DevOps')
+  res.send('Belajar DevOps di IDN')
 });
 
 app.get('/users', (req, res, next) => {
